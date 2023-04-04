@@ -1,0 +1,8 @@
+Bahan untuk robot line follower
+No	Bahan			Kuantity	Harga			Ket
+1	esp32			1			-				Barang sudah ada
+2	Ir sensor		2			-				Barang sudah ada			
+4 	Motor driver	1			Rp 30.000
+5	Motor DC + Roda	2			Rp 80.000			
+6	Breadboard		1			-				Barang sudah ada
+					Total		Rp 110.000
